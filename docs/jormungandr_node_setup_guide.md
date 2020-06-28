@@ -521,6 +521,9 @@ storage: /home/<YOUR USERNAME>/storage
 
 (Did you remember to replace the PLACEHOLDERS with the appropriate values)?
 
+NOTE1: For ITN network, please update working peers by the ones present in https://itn.adapools.org/peers
+NOTE2: for jormungandr V0.9, delete "id:" line, leaving just the "address" ones.
+
 ### create a directory for storage
 ```
 mkdir /home/<YOUR USERNAME>/storage
